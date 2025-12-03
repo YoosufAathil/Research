@@ -1,0 +1,1 @@
+This Folder contains the diagram used in the Research work with Draw.io
